@@ -1,0 +1,82 @@
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.cache
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+C:\Users\och\source\repos\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
+J:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+J:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+J:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.cache
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+J:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.Cache
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+C:\Users\Och\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.resultForm.resources
+F:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+F:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+F:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.resultForm.resources
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.cache
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+F:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.resultForm.resources
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.cache
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+C:\Users\CS-PL-20\Desktop\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
+L:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+L:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+L:\Dgame_21521134\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.resultForm.resources
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.cache
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+L:\Dgame_21521134\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\bin\Debug\Dgame_21521134.exe
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\bin\Debug\Dgame_21521134.pdb
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\bin\Debug\Dgame_21521134.xml
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.vbprojAssemblyReference.cache
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.Form1.resources
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.Resources.resources
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.resultForm.resources
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.GenerateResource.cache
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.vbproj.CoreCompileInputs.cache
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.exe
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.xml
+C:\Users\Och\Desktop\방탈출 ppt\21521134_오찬해_비주얼베이직_시험_과제\Dgame_21521134\obj\Debug\Dgame_21521134.pdb
